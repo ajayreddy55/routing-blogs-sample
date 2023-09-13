@@ -1,0 +1,19 @@
+.routing-blogs-bg-container {
+  background-color: #ffffff;
+  padding: 18px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.routing-blogs-main-container {
+  width: 90%;
+  min-height: 300px;
+  border: 4px solid #551e53;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 19px;
+}
